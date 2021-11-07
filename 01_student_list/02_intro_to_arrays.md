@@ -52,5 +52,6 @@ Students[2] // will give Kim
 ````
 
 **Inspector Implementation:**
+
 ![img](https://lh5.googleusercontent.com/1YfR3-TlAfAMl38iULZWbN-R9GC_lElqlDoFoCvl-fGxp4fFJ75tbxh1eY0O-KLy1sVmA8eDz0G-n9MJVfXhRHa8F11qYLoESF_gir-nKGkAUWbAqtHIrjenx_sCnhWLkY1L_JJ2)
 
