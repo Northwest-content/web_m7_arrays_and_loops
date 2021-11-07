@@ -13,7 +13,9 @@ let students = []; // empty list
 students.push(“Bob”);
 ```
 
-**Inspector Implementation:**![img](https://lh4.googleusercontent.com/P8viJZ7g2y9PJsjDcbRHJeU4wMEXYXEkFpr1a89Ri3EzFiQqwjGubN4Y7Oy8d-g-68hm2-FPmfDY1_87yWtqMtfl4dhGZdssM9GI6FhCSabbs1GGgX4UQWT-LM14WfSUq2HXBxsm)Now let's fix our code: 
+**Inspector Implementation:**
+
+![img](https://lh4.googleusercontent.com/P8viJZ7g2y9PJsjDcbRHJeU4wMEXYXEkFpr1a89Ri3EzFiQqwjGubN4Y7Oy8d-g-68hm2-FPmfDY1_87yWtqMtfl4dhGZdssM9GI6FhCSabbs1GGgX4UQWT-LM14WfSUq2HXBxsm)Now let's fix our code: 
 
 1. Change `name` to `names`
 
@@ -47,7 +49,9 @@ We need to learn how to print `arrays` on the screen 👀
 
 ![img](https://lh4.googleusercontent.com/GHq8PA6LdS7DYbC_RPbMqbp5QLZUUXDSzce2hb5Vr4LxsFYj57qaoGxyTZMdmpJpn1cojIT9Mz-8J-Wzv3DU9o-dOEVQUrw4FHG2H-nP_Mv0Ixe8aSrBUtc3XGQnAlqJgcMdJ3m2)
 
-**Output:**![img](https://lh4.googleusercontent.com/rm82YLNUjU2DE7BG3aZOJvv2R_4AD9FT8FB7gU649UMChjk3UPnlzb0g5EbHUMsi_YSUvfy0Bti86uYX1tilrnd_wc8cOKwX7WQpP59UeSVy6-cAQ3OzhAXzJoqP_R0tw7QDd3il)
+**Output:**
+
+![img](https://lh4.googleusercontent.com/rm82YLNUjU2DE7BG3aZOJvv2R_4AD9FT8FB7gU649UMChjk3UPnlzb0g5EbHUMsi_YSUvfy0Bti86uYX1tilrnd_wc8cOKwX7WQpP59UeSVy6-cAQ3OzhAXzJoqP_R0tw7QDd3il)
 
 **Fix ⚠:**
 
